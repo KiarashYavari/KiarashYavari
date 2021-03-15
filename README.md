@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KiarashYavari
-- 👀 I’m interested in Web Backend and FrontEnd :)
+- 👀 I’m interested in Web BackEnd and FrontEnd :)
 - 🌱 I’m currently learning Django Framework.
 - 💞️ I’m looking to Participate in an internship.
 - 📫 How to reach me kiarash996@Yahoo.com
