@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KiarashYavari
 - 👀 I’m interested in Web BackEnd and FrontEnd :)
-- 🌱 I’m currently learning Django Rest Framework and Django Channels for asgi applications.
-- 💞️ I’m looking to Participate in an internship or junior developer positions.
-- 📫 How to reach me >> kiarash996@Yahoo.com
+- 🌱 I’m currently learning React Js advanced concepts.
+- 💞️ I’m looking to Participate in a remote position as a Pyhton/Django devloper.
+- 📫 How to reach me >> kiarash996@Yahoo.com or whatsapp: 0989210820863
 
 <!---
 KiarashYavari/KiarashYavari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
